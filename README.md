@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @booyah-1902
 - 👀 I’m interested in Boxing/Karate, Photoshop, Chess, Football, and Coding
 - 🌱 I’m currently learning C# and Python
-- 📫 How to reach me @16MoghulA@rcmail.org.uk
+- 📫 How to reach me @rayaanmoghul@gmail.com

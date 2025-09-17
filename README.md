@@ -1,4 +1,4 @@
-# Hi, I'm Ayyub 👋
+## Hi, I'm Ayyub 👋
 
 **AI Engineer & Founder** | Building at the intersection of technology and human well-being
 
@@ -45,4 +45,4 @@ I believe technology should serve humanity's greatest needs. My work focuses on 
 
 ---
 
-> *"In pursuit of greatness."*
+*"In pursuit of greatness."*

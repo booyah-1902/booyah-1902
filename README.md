@@ -1,4 +1,4 @@
-## Hi, I'm Ayyub 👋
+# Ayyub Moghul:
 
 **AI Engineer & Founder** | Building at the intersection of technology and human well-being
 
@@ -37,12 +37,11 @@ I believe technology should serve humanity's greatest needs. My work focuses on 
 - 🌱 **Learning** from fellow builders and founders
 - 🚀 **Discussing** the future of AI in healthcare and wellness
 
-**Reach me:** rayaanmoghul@gmail.com
-**LinkedIn:** https://www.linkedin.com/in/ayyub-moghul/
-**Blabit:** https://blabit.co.uk
 
 ---
-
+- **Reach me:** rayaanmoghul@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/ayyub-moghul/
+- **Blabit:** https://blabit.co.uk
 ---
 
 *"In pursuit of greatness."*
